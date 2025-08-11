@@ -1,15 +1,4 @@
 PyATM/
-├── __pycache__/
-│   ├── auth.cpython-311.pyc
-│   ├── buttons.cpython-311.pyc
-│   ├── configs.cpython-311.pyc
-│   ├── deposit.cpython-311.pyc
-│   ├── gui.cpython-311.pyc
-│   ├── logic.cpython-311.pyc
-│   ├── transaction.cpython-311.pyc
-│   ├── utils.cpython-311.pyc
-│   ├── widget.cpython-311.pyc
-│   └── withdraw.cpython-311.pyc
 ├── data/
 │   └── atm_data.json
 ├── LICENSE/
@@ -17,7 +6,6 @@ PyATM/
 ├── README/
 │   ├── README.md
 │   ├── INSTRUCTIONS.md
-│   ├── CONTRIBUTING.md
 │   ├── README.pptx
 │   └── ATMFILE.map
 ├── settings/
@@ -26,73 +14,6 @@ PyATM/
 │   ├── account.cfg
 │   ├── deposit.cfg
 │   └── withdraw.cfg
-├── setups/
-│   ├── dependencies/
-│   │   ├── .editorconfig
-│   │   ├── .gitignore
-│   │   ├── commit_config.yaml
-│   │   ├── docker_compose.yml
-│   │   ├── Dockerfile
-│   │   ├── Makefile
-│   │   ├── mypy.ini
-│   │   ├── pyproject.json
-│   │   └── tox.ini
-│   ├── environment.yml
-│   ├── install.py
-│   ├── pipfile.lock
-│   ├── pipfile.toml
-│   ├── pyproject.toml
-│   ├── requirements.txt
-│   └── setup.py
-├── text/
-│   ├── pycache/
-│   │   ├── auth.cpython-311.txt
-│   │   ├── buttons.cpython-311.txt
-│   │   ├── configs.cpython-311.txt
-│   │   ├── deposit.cpython-311.txt
-│   │   ├── gui.cpython-311.txt
-│   │   ├── logic.cpython-311.txt
-│   │   ├── transaction.cpython-311.txt
-│   │   ├── utils.cpython-311.txt
-│   │   ├── widget.cpython-311.txt
-│   │   └── withdraw.cpython-311.txt
-│   ├── settings/
-│   │   ├── atm_cfg.txt
-│   │   ├── auth_cfg.txt
-│   │   ├── account_cfg.txt
-│   │   ├── deposit_cfg.txt
-│   │   └── withdraw_cfg.txt
-│   ├── setups/
-│   │   ├── dependencies/
-│   │   │   ├── editorconfig.txt
-│   │   │   ├── gitignore.txt
-│   │   │   ├── commit_config_yaml.txt
-│   │   │   ├── docker_compose_yml.txt
-│   │   │   ├── Dockerfile.txt
-│   │   │   ├── Makefile.txt
-│   │   │   ├── mypy_ini.txt
-│   │   │   ├── pyproject_json.txt
-│   │   │   └── tox_ini.txt
-│   │   ├── environment.yml
-│   │   ├── install.py
-│   │   ├── pipfile.lock
-│   │   ├── pipfile.toml
-│   │   ├── pyproject.toml
-│   │   ├── requirements.txt
-│   │   └── setup.py
-│   ├── auth.txt
-│   ├── buttons.txt
-│   ├── configs.txt
-│   ├── deposit.txt
-│   ├── gui.txt
-│   ├── keypad.txt
-│   ├── logic.txt
-│   ├── main.txt
-│   ├── screen.txt
-│   ├── transaction.txt
-│   ├── utils.txt
-│   ├── widget.txt
-│   └── withdraw.txt
 ├── auth.py
 ├── buttons.py
 ├── configs.py
